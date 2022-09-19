@@ -8,7 +8,5 @@
 
 - Pude entender como funciona o FlexBox e as suas ferramentas 
 
-## 👨‍💻 Visualização do projeto
 
-- Link para visualização do projeto: 
 
