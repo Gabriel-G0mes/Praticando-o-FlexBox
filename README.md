@@ -1,2 +1,14 @@
-# Praticando-o-FlexBox
-- Aqui pratiquei um pouco do FlexBox , aprendizado adquirido no Curso da Digital Innovation One.
+# Praticando as ferramentas do FlexBox
+
+## 🛠️ Tecnologias
+- HTML
+- CSS
+
+## 🧠 Aprendizado
+
+- Pude entender como funciona o FlexBox e as suas ferramentas 
+
+## 👨‍💻 Visualização do projeto
+
+- Link para visualização do projeto: 
+
